@@ -7,17 +7,16 @@ Home: https://github.com/Paligo/xee
 
 Package license: MIT AND Unicode-3.0
 
-Summary: Xee CLI. Swiss Army knife for XML. XPath and XSLT
+Summary: Swiss Army knife for XML, XPath and XSLT
 
 Development: https://github.com/Paligo/xee
 
 Documentation: https://github.com/Paligo/xee/tree/main/xee
 
-Xee is an XML Execution Engine written in Rust. It provides
-an almost complete XPath 3.1 implementation and a command-line
-tool that can load XML documents, issue XPath expressions against
-them (including in a REPL), pretty-print XML documents, and
-transform XML documents using XSLT stylesheets.
+Xee is an XML execution engine written in Rust. The `xee` CLI provides an
+almost complete XPath 3.1 implementation that can load XML documents, issue
+XPath expressions against them (including in a REPL), pretty-print XML
+documents, and transform XML documents using XSLT stylesheets.
 
 Current build status
 ====================
