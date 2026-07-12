@@ -43,13 +43,12 @@ tests:
       strict: true
 
 about:
-  summary: "Xee CLI. Swiss Army knife for XML. XPath and XSLT"
+  summary: "Swiss Army knife for XML, XPath and XSLT"
   description: |
-    Xee is an XML Execution Engine written in Rust. It provides
-    an almost complete XPath 3.1 implementation and a command-line
-    tool that can load XML documents, issue XPath expressions against
-    them (including in a REPL), pretty-print XML documents, and
-    transform XML documents using XSLT stylesheets.
+    Xee is an XML execution engine written in Rust. The `xee` CLI provides an
+    almost complete XPath 3.1 implementation that can load XML documents, issue
+    XPath expressions against them (including in a REPL), pretty-print XML
+    documents, and transform XML documents using XSLT stylesheets.
   license: MIT AND Unicode-3.0
   license_file:
     - COPYRIGHT
